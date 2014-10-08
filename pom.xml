@@ -9,12 +9,14 @@
         <version>1.1.0.BUILD-SNAPSHOT</version>
     </parent>
 
-    <groupId>com.mikenimer.apiserver</groupId>
-    <artifactId>apiserver</artifactId>
+    <groupId>com.mikenimer.apiappengine</groupId>
+    <artifactId>APIAppEngine</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>pom</packaging>
-    <name>ApiServer</name>
+    <name>APIAppEngine</name>
     <modules>
+        <module>../maven-swagger-plugin</module>
+        <module>../worker-coldfusion</module>
         <module>../service-core</module>
         <module>../service-cache</module>
         <module>../service-images</module>

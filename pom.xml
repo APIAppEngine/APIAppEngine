@@ -20,7 +20,7 @@
         <module>../service-core</module>
         <module>../service-cache</module>
         <module>../service-images</module>
-        <!--module>../service-pdf</module-->
+        <module>../service-pdf</module>
 
         <!--module>../runner-basic</module-->
         <!--module>../runner-mashape</module-->

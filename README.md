@@ -1,10 +1,9 @@
-Middleware is dead! API's are the future!
-
-API-Server
+APIAppEngine
 ===============
-Why trust 3rd party companies outside of your control? Bring the functionality that you used to rely on middleware servers to expose to your rich client application - as a rich set of REST API's. 
+The APIAppEngine project has been created with one goal, to replace traditional "Middleware" with a rich set of API's. 
+ We do this by exposing traditional middleware functionality through a rich set of APIs. 
+ 
+ We are replacing middleware "One API At a Time!". 
 
-No more dependencies on the request/response model of page reloading to use server side processing power. 
+ 
 
-SETUP
-================
